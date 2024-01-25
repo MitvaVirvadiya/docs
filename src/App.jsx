@@ -1,6 +1,5 @@
-import { useState } from 'react'
-import Background from './components/background'
-import Foreground from './components/Foreground'
+import Background from './components/background/Background.jsx';
+import Foreground from './components/Foreground.jsx';
 
 function App() {
   return (
